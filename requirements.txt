@@ -1,0 +1,4 @@
+# Core Dependencies for Gemini OCR
+google-genai>=0.1.1
+requests>=2.28.0
+python-dotenv>=1.0.0
